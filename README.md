@@ -21,3 +21,8 @@ Summary:
 The logistic regression model demonstrates excellent performance overall, especially in predicting healthy loans (class 0). With an accuracy score of 99%, the model is highly reliable, and its precision and recall for healthy loans (100% and 99%) show that it is adept at identifying healthy loans with minimal error.
 
 However, for high-risk loans (class 1), the model’s precision (87%) is lower, meaning that some healthy loans are incorrectly predicted as high-risk. Despite this, the recall for high-risk loans is strong at 93%, indicating that the model does a good job of catching most high-risk loans, though some are still missed. 
+
+
+Challenge Work:
+Through out this challenge i was guided using the templete provided by the project. 
+I also refered back to class assingments to help throughout the project. 
